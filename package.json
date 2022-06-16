@@ -101,7 +101,7 @@
         "mqtt": "^4.2.8",
         "mssql": "^8.1.0",
         "node-cloudflared-tunnel": "~1.0.9",
-        "nodemailer": "~6.6.5",
+        "nodemailer": "~6.7.5",
         "notp": "~2.0.3",
         "password-hash": "~1.2.2",
         "postcss-rtlcss": "~3.4.1",
