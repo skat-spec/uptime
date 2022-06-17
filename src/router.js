@@ -130,6 +130,10 @@ const routes = [
         component: Setup,
     },
     {
+        path: "/register",
+        component: Register,
+    },
+    {
         path: "/status-page",
         component: StatusPage,
     },
