@@ -1,1 +1,2 @@
-worker: npx npm start & npx node up.js
+worker: npx npm start
+
